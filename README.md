@@ -19,8 +19,6 @@ You get **two usage options**, depending on your environment and restrictions.
 
 ### Option 1 — All-in-One Export (Recommended)
 - Fetches **all agents and admins**
-- Deduplicates users
-- Formats data safely for Excel / Google Sheets
 - Automatically downloads a CSV file
 
 Best if:
@@ -39,22 +37,6 @@ Best if:
 - File downloads are blocked
 - Excel is unavailable
 - You need to inspect or modify data before exporting
-
----
-
-## 📁 Repository Structure
-
-
-zendesk-team-export/
-│
-├── README.md
-│
-├── option-1/
-│ └── export-and-download-csv.js
-│
-└── option-2/
-├── fetch-team-to-console.js
-└── export-console-data-to-csv.js
 
 
 ---
