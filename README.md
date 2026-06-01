@@ -25,7 +25,8 @@ Best if:
 - File downloads are allowed
 - Excel or Sheets is available
 
----
+
+<img src="./option-2/adminCenterZendesk.gif" alt="after running the code" width="100%">
 
 ### Option 2 — Console-Only + Separate Export
 Designed for restricted environments.
